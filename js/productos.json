@@ -1,0 +1,131 @@
+[
+    {
+        "id": "anteojos-01",
+        "titulo": "Anteojos rosado",
+        "imagen": "./img/anteojos/01.jpg",
+        "categoria": {
+            "nombre": "Anteojos",
+            "id": "Anteojos"
+        },
+        "precio": 11000,
+        "stock": 10
+    },
+    {
+        "id": "anteojos-02",
+        "titulo": "Anteojos negro y rosa",
+        "imagen": "./img/anteojos/02.jpg",
+        "categoria": {
+            "nombre": "Anteojos",
+            "id": "Anteojos"
+        },
+        "precio": 15000,
+        "stock": 15
+    },
+    {
+        "id": "anteojos-03",
+        "titulo": "Anteojos dorado",
+        "imagen": "./img/anteojos/03.jpg",
+        "categoria": {
+            "nombre": "Anteojos",
+            "id": "Anteojos"
+        },
+        "precio": 70000,
+        "stock": 54
+    },
+    {
+        "id": "anteojos-04",
+        "titulo": "Anteojos azul",
+        "imagen": "./img/anteojos/04.jpg",
+        "categoria": {
+            "nombre": "Anteojos",
+            "id": "Anteojos"
+        },
+        "precio": 35650,
+        "stock": 6
+    },
+    {
+        "id": "gorra-01",
+        "titulo": "Gorra newb",
+        "imagen": "./img/gorras/01.jpg",
+        "categoria": {
+            "nombre": "Gorras",
+            "id": "Gorras"
+        },
+        "precio": 15000,
+        "stock": 10 },
+    {
+        "id": "gorra-02",
+        "titulo": "Gorra newb azul",
+        "imagen": "./img/gorras/02.jpg",
+        "categoria": {
+            "nombre": "Gorras",
+            "id": "Gorras"
+        },
+        "precio": 9000,
+        "stock": 15 },
+    {
+        "id": "gorra-03",
+        "titulo": "Gorra wolf",
+        "imagen": "./img/gorras/03.jpg",
+        "categoria": {
+            "nombre": "Gorras",
+            "id": "Gorras"
+        },
+        "precio": 12000,
+        "stock": 5 },
+    {
+        "id": "gorra-04",
+        "titulo": "Gorra twolines",
+        "imagen": "./img/gorras/04.jpg",
+        "categoria": {
+            "nombre": "Gorras",
+            "id": "Gorras"
+        },
+        "precio": 7800,
+        "stock": 6},
+    {
+        "id": "anteojos_sol-01",
+        "titulo": "Anteojos de Sol Barbeq",
+        "imagen": "./img/anteojos_sol/01.jpg",
+        "categoria": {
+            "nombre": "Anteojos de sol",
+            "id": "Anteojosdesol"
+        },
+        "precio": 54000,
+        "stock": 10   
+    },
+    {
+        "id": "anteojos_sol-02",
+        "titulo": "Anteojos de Sol Aviador",
+        "imagen": "./img/anteojos_sol/02.jpg",
+        "categoria": {
+            "nombre": "Anteojos de sol",
+            "id": "Anteojosdesol"
+        },
+        "precio": 85000,
+        "stock": 15
+    },
+    {
+        "id": "anteojos_sol-03",
+        "titulo": "Anteojos de Sol Fuego",
+        "imagen": "./img/anteojos_sol/03.jpg",
+        "categoria": {
+            "nombre": "Anteojos de sol",
+            "id": "Anteojosdesol"
+        },
+        "precio": 54999,
+        "stock": 12
+    },
+    {
+        "id": "anteojos_sol-04",
+        "titulo": "Anteojos de Sol Blue ice",
+        "imagen": "./img/anteojos_sol/04.jpg",
+        "categoria": {
+            "nombre": "Anteojos de sol",
+            "id": "Anteojosdesol"
+        },
+        "precio": 43000,
+        "stock": 45
+    }
+    
+]
